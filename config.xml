@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<config>
+	<dir>"C:\Documents and Settings\qa\Bureau\tests autos\MailAuto\blat\full\blat.exe"</dir>
+	<smtpsender>"automatic-test@onmobile.com"</smtpsender>
+	<smtpserver>"mail2.srv.voxmobili.com"</smtpserver>
+	<smtpport>25</smtpport>
+	<subject>"[SDK Android] - Automatic testing report"</subject>
+	<avdname>"VTFF"</avdname>
+	<createsdcard>false</createsdcard>
+	<pathapp>C:\Users\adetalouet\Documents\MOM</pathapp>
+	<pathsdk>C:\Users\adetalouet\Documents\Logiciels\Eclipse-Android_SDK\adt-bundle-windows-x86_64-20130219\sdk</pathsdk>
+    <recipients>
+	    <recipient>
+			<address>gregory.barbier@onmobile.com</address>
+		</recipient>
+		<!-- <recipient>
+			<address>jerome.bouche@onmobile.com</address>
+		</recipient> -->
+		<recipient>
+			<address>alexis.detalhouet@onmobile.com</address>
+		</recipient>
+	</recipients>
+</config>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MOM</string>
+
+    <string name="sms0">Yo</string>
+    <string name="sms1">Salut comment ça va ?</string>
+    <string name="sms2">Yes au top, é, è, ê, ô, î, ï, â; ä ü</string>
+    <string name="sms3">Want to hang out tonight ?</string>
+    <string name="sms4">Yeah sure, what\'s up?</string>
+    <string name="sms5">RDV à 20:00 devant le ciné de chatelet, scéance à 20:15. Bisous</string>
+    <string name="sms6">Aujourd\'hui je suis tombé sur MichMich, c\'était trop cool. Tu veux venir
+        prendre un verre avec nous ?
+    </string>
+    <string name="sms7">J\'aime qu\'on me beure la biscotte</string>
+    <string name="sms8">J\'aime le bruit blanc de l\'eau</string>
+    <string name="sms9">Perso entre le XBox One et la PS4 j\'hésite même pas, je m\'achéte une WII
+    </string>
+    <string name="sms10">Alors comment va la famille, et les vacances; ici on a eu une grosse pluie
+        c\'est horrible. \n \n J\'aimerai bien en avoir vite fini avec ces textos, ça me gonfle. Oh
+        ça va hein, arrête un peu avec tes mécontentement. Tu commences serieusement à me casser les
+        c****** Jean Mi alors soit tu stoppes de suite, soit je vasi te stopper mais ça risque de ne
+        pas te plaire.
+    </string>
+
+</resources>
